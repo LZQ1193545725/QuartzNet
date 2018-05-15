@@ -1,0 +1,15 @@
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Common.Logging.Core.dll
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Common.Logging.dll
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Quartz.dll
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Common.Logging.pdb
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Common.Logging.xml
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Common.Logging.Core.pdb
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Common.Logging.Core.xml
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Quartz.pdb
+d:\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Quartz.xml
+d:\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+d:\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

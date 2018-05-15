@@ -1,0 +1,9 @@
+d:\Projects\ConsoleApplication1\QuartzNet\bin\Debug\QuartzNet.exe.config
+d:\Projects\ConsoleApplication1\QuartzNet\bin\Debug\QuartzNet.exe
+d:\Projects\ConsoleApplication1\QuartzNet\bin\Debug\QuartzNet.pdb
+d:\Projects\ConsoleApplication1\QuartzNet\bin\Debug\Quartz.dll
+d:\Projects\ConsoleApplication1\QuartzNet\bin\Debug\Quartz.pdb
+d:\Projects\ConsoleApplication1\QuartzNet\bin\Debug\Quartz.xml
+d:\Projects\ConsoleApplication1\QuartzNet\obj\Debug\QuartzNet.csprojResolveAssemblyReference.cache
+d:\Projects\ConsoleApplication1\QuartzNet\obj\Debug\QuartzNet.exe
+d:\Projects\ConsoleApplication1\QuartzNet\obj\Debug\QuartzNet.pdb
